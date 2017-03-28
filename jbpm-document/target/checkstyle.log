@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.4">
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\Document.java">
+</file>
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\marshalling\AbstractDocumentMarshallingStrategy.java">
+</file>
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\marshalling\DocumentMarshallingStrategy.java">
+</file>
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\service\DocumentStorageService.java">
+</file>
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\service\DocumentStorageServiceProvider.java">
+</file>
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\service\impl\DocumentImpl.java">
+</file>
+<file name="C:\jbpm-document\src\main\java\org\jbpm\document\service\impl\DocumentStorageServiceImpl.java">
+<error line="67" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="69" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="117" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="125" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+<file name="C:\jbpm-document\src\test\java\org\jbpm\document\service\DocumentStorageServiceImplTest.java">
+<error line="23" severity="error" message="Declaración de importación de &apos;java.io.File&apos; es en el orden equivocado. En caso de estar en el &apos;STANDARD_JAVA_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="24" severity="error" message="Declaración de importación de &apos;java.util.Arrays&apos; es en el orden equivocado. En caso de estar en el &apos;STANDARD_JAVA_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="25" severity="error" message="Declaración de importación de &apos;java.util.Date&apos; es en el orden equivocado. En caso de estar en el &apos;STANDARD_JAVA_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="26" severity="error" message="Declaración de importación de &apos;java.util.HashMap&apos; es en el orden equivocado. En caso de estar en el &apos;STANDARD_JAVA_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="27" severity="error" message="Declaración de importación de &apos;java.util.List&apos; es en el orden equivocado. En caso de estar en el &apos;STANDARD_JAVA_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="29" severity="error" message="Declaración de importación de &apos;org.jbpm.document.Document&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="30" severity="error" message="Declaración de importación de &apos;org.jbpm.document.service.impl.DocumentStorageServiceImpl&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="31" severity="error" message="Declaración de importación de &apos;org.junit.AfterClass&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="32" severity="error" message="Declaración de importación de &apos;org.junit.Before&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="33" severity="error" message="Declaración de importación de &apos;org.junit.Test&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="34" severity="error" message="Declaración de importación de &apos;org.junit.runner.RunWith&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="35" severity="error" message="Declaración de importación de &apos;org.junit.runners.Parameterized&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="36" severity="error" message="Declaración de importación de &apos;org.junit.runners.Parameterized.Parameters&apos; es en el orden equivocado. En caso de estar en el &apos;THIRD_PARTY_PACKAGE&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\jbpm-document\src\test\java\org\jbpm\document\service\impl\CustomDocumentStorageServiceImpl.java">
+</file>
+</checkstyle>

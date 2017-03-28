@@ -1,0 +1,8 @@
+org\jbpm\document\service\DocumentStorageServiceProvider.class
+org\jbpm\document\service\DocumentStorageService.class
+org\jbpm\document\Document.class
+org\jbpm\document\service\impl\DocumentStorageServiceImpl$1.class
+org\jbpm\document\service\impl\DocumentStorageServiceImpl.class
+org\jbpm\document\service\impl\DocumentImpl.class
+org\jbpm\document\marshalling\AbstractDocumentMarshallingStrategy.class
+org\jbpm\document\marshalling\DocumentMarshallingStrategy.class
