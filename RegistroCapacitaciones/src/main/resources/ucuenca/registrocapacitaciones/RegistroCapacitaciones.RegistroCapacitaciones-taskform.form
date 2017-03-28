@@ -1,0 +1,13 @@
+
+<form id="110271198">
+<property name="name" value="RegistroCapacitaciones.RegistroCapacitaciones-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#FBB767" type="dataModelerEntry" outId="evaluacion" value="ucuenca.registrocapacitaciones.evaluacion" id="evaluacion"/>
+<dataHolder inputId="" name="#9BCAFA" type="className" outId="evaluaciones" value="java.util.ArrayList" id="evaluaciones"/>
+<dataHolder inputId="" name="#E9E371" type="dataModelerEntry" outId="evento" value="ucuenca.registrocapacitaciones.evento" id="evento"/>
+<dataHolder inputId="" name="#A7E690" type="dataModelerEntry" outId="informe" value="ucuenca.registrocapacitaciones.informe" id="informe"/>
+<dataHolder inputId="" name="#BBBBBB" type="className" outId="lista_aprobados" value="java.util.ArrayList" id="lista_aprobados"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="outcome" value="java.lang.Boolean" id="outcome"/>
+<dataHolder inputId="" name="#FF54A7" type="dataModelerEntry" outId="participante" value="ucuenca.registrocapacitaciones.participante" id="participante"/>
+</form>

@@ -1,0 +1,75 @@
+
+<form id="123422815">
+<property name="name" value="asignarParticipantes.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="asignacion_nombre" type="InputText" id="577449336">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombre (asignacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="asignacion/nombre"/>
+<property name="outputBinding" value="asignacion/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="asignacion_cargo" type="InputText" id="1017388404">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cargo (asignacion)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="asignacion/cargo"/>
+<property name="outputBinding" value="asignacion/cargo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="asignacion_correo" type="InputText" id="1293804327">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;correo (asignacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="asignacion/correo"/>
+<property name="outputBinding" value="asignacion/correo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="asignacion_dependencia" type="InputText" id="1253003137">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;dependencia (asignacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="asignacion/dependencia"/>
+<property name="outputBinding" value="asignacion/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="asignacion_viaticos" type="InputText" id="1255879795">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;viaticos (asignacion)quot;quot;esquot;,quot;¿Requiere viáticos?quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,;si,SI;no,NO}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="asignacion/viaticos"/>
+<property name="outputBinding" value="asignacion/viaticos"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="asignacion_estado_evento" type="InputText" id="880398630">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;estado_evento (asignacion)quot;quot;esquot;,quot;estado:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,;aprobado,APROBADO;no aprobado,NO APROBADO}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="asignacion/estado_evento"/>
+<property name="outputBinding" value="asignacion/estado_evento"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="asignacion" name="#E9E371" type="dataModelerEntry" outId="asignacion" value="ucuenca.registrocapacitaciones.participante" id="asignacion"/>
+</form>

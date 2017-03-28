@@ -1,0 +1,323 @@
+
+<form id="679055217">
+<property name="name" value="Registrarcertificadoyevaluarevento-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="evaluacion_evento" type="Subform" id="528126419">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;evento (evaluacion)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/evento"/>
+<property name="outputBinding" value="evaluacion/evento"/>
+<property name="defaultSubform" value="Registrarfindeevento-taskform.form"/>
+<property name="fieldClass" value="java.lang.Object"/>
+</field>
+<field position="1" name="evaluacion_id" type="InputTextLong" id="684636761">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/id"/>
+<property name="outputBinding" value="evaluacion/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="2" name="evaluacion_preg_1_1" type="InputTextInteger" id="1390373560">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_1_1 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_1_1"/>
+<property name="outputBinding" value="evaluacion/preg_1_1"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="3" name="evaluacion_preg_1_2" type="InputTextInteger" id="169521095">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_1_2 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_1_2"/>
+<property name="outputBinding" value="evaluacion/preg_1_2"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="4" name="evaluacion_preg_1_3" type="InputTextInteger" id="77161490">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_1_3 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_1_3"/>
+<property name="outputBinding" value="evaluacion/preg_1_3"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="5" name="evaluacion_preg_1_4" type="InputTextInteger" id="1641662757">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_1_4 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_1_4"/>
+<property name="outputBinding" value="evaluacion/preg_1_4"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="6" name="evaluacion_preg_1_5" type="InputTextInteger" id="1142416210">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_1_5 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_1_5"/>
+<property name="outputBinding" value="evaluacion/preg_1_5"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="7" name="evaluacion_preg_2" type="InputText" id="1531803149">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_2 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_2"/>
+<property name="outputBinding" value="evaluacion/preg_2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="evaluacion_preg_3" type="InputText" id="1014941409">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_3 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_3"/>
+<property name="outputBinding" value="evaluacion/preg_3"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="evaluacion_preg_4" type="InputText" id="1673673588">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_4 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_4"/>
+<property name="outputBinding" value="evaluacion/preg_4"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="evaluacion_preg_5" type="InputText" id="537330823">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;preg_5 (evaluacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_5"/>
+<property name="outputBinding" value="evaluacion/preg_5"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="evento_centro" type="InputText" id="708564739">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;centro (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/centro"/>
+<property name="outputBinding" value="evento/centro"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="evento_ciudad" type="InputText" id="706190298">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ciudad (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/ciudad"/>
+<property name="outputBinding" value="evento/ciudad"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="evento_costo" type="InputTextDouble" id="199285142">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;costo (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/costo"/>
+<property name="outputBinding" value="evento/costo"/>
+<property name="fieldClass" value="java.lang.Double"/>
+</field>
+<field position="14" name="evento_dependencia" type="InputText" id="300819816">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dependencia (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/dependencia"/>
+<property name="outputBinding" value="evento/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="15" name="evento_descripcion" type="InputText" id="2081300969">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;descripcion (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/descripcion"/>
+<property name="outputBinding" value="evento/descripcion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="16" name="evento_duracion" type="InputTextInteger" id="1857907012">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;duracion (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/duracion"/>
+<property name="outputBinding" value="evento/duracion"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="17" name="evento_fecha" type="InputDate" id="191478837">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/fecha"/>
+<property name="outputBinding" value="evento/fecha"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="18" name="evento_fechaFin" type="InputDate" id="630388639">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaFin (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/fechaFin"/>
+<property name="outputBinding" value="evento/fechaFin"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="19" name="evento_fechaInicio" type="InputDate" id="349162389">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaInicio (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/fechaInicio"/>
+<property name="outputBinding" value="evento/fechaInicio"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="20" name="evento_financiamiento" type="InputText" id="978037862">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;financiamiento (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/financiamiento"/>
+<property name="outputBinding" value="evento/financiamiento"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="21" name="evento_horario" type="InputText" id="283373798">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;horario (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/horario"/>
+<property name="outputBinding" value="evento/horario"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="22" name="evento_id" type="InputTextLong" id="1800542661">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/id"/>
+<property name="outputBinding" value="evento/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="23" name="evento_instructor" type="InputText" id="589638029">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;instructor (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/instructor"/>
+<property name="outputBinding" value="evento/instructor"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="24" name="evento_justificacion" type="InputText" id="57719437">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;justificacion (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/justificacion"/>
+<property name="outputBinding" value="evento/justificacion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="25" name="evento_lugar" type="InputText" id="268030577">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;lugar (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/lugar"/>
+<property name="outputBinding" value="evento/lugar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="26" name="evento_modalidad" type="InputText" id="467912407">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;modalidad (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/modalidad"/>
+<property name="outputBinding" value="evento/modalidad"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="27" name="evento_nombre" type="InputText" id="1963675021">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombre (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/nombre"/>
+<property name="outputBinding" value="evento/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="28" name="evento_observaciones" type="InputText" id="1799103681">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;observaciones (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/observaciones"/>
+<property name="outputBinding" value="evento/observaciones"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="29" name="evento_pais" type="InputText" id="1587538517">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;pais (evento)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/pais"/>
+<property name="outputBinding" value="evento/pais"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="30" name="evento_participantes" bag-type="ucuenca.registrocapacitaciones.participante" type="MultipleSubform" id="242297710">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;participantes (evento)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evento/participantes"/>
+<property name="outputBinding" value="evento/participantes"/>
+<property name="defaultSubform" value="asignarParticipantes.form"/>
+<property name="previewSubform" value="asignarParticipantes.form"/>
+<property name="tableSubform" value="asignarParticipantes.form"/>
+<property name="newItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="addItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="cancelItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="deleteItems" value="false"/>
+<property name="updateItems" value="false"/>
+<property name="visualizeItems" value="false"/>
+<property name="hideCreateItem" value="false"/>
+<property name="expanded" value="false"/>
+<property name="enableTableEnterData" value="false"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<field position="31" name="participante_cargo" type="InputText" id="1825946233">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cargo (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/cargo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="32" name="participante_correo" type="InputText" id="944678499">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;correo (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/correo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="33" name="participante_dependencia" type="InputText" id="942274901">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dependencia (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="34" name="participante_estado_evento" type="InputText" id="729280778">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;estado_evento (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/estado_evento"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="35" name="participante_id" type="InputTextLong" id="1739915490">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="36" name="participante_nombre" type="InputText" id="34097214">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombre (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="37" name="participante_viaticos" type="InputText" id="435807782">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;viaticos (participante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="participante/viaticos"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="evaluacion" name="#FBB767" type="dataModelerEntry" outId="evaluacion" value="ucuenca.registrocapacitaciones.evaluacion" id="evaluacion"/>
+<dataHolder inputId="evento" name="#E9E371" type="dataModelerEntry" outId="evento" value="ucuenca.registrocapacitaciones.evento" id="evento"/>
+<dataHolder inputId="participante" name="#FF54A7" type="dataModelerEntry" outId="" value="ucuenca.registrocapacitaciones.participante" id="participante"/>
+</form>
